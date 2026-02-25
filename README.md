@@ -95,3 +95,9 @@ El proyecto consiste en la implementación de una calculadora aritmética utiliz
 ANTLR genera automáticamente el analizador léxico y sintáctico, encargados de dividir la entrada en tokens y construir un árbol sintáctico que respeta la precedencia de operadores. Posteriormente, mediante el patrón Visitor, se recorre dicho árbol para evaluar cada expresión y obtener el resultado correspondiente.
 
 En general, el proyecto demuestra la aplicación práctica de gramáticas formales y el uso de ANTLR para el desarrollo de analizadores que procesan y evalúan expresiones matemáticas de manera estructurada y eficiente.
+
+
+
+**Resultados**
+
+![Resultados](IMAGENES/RESULTADOS.jpg)
