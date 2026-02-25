@@ -98,6 +98,3 @@ En general, el proyecto demuestra la aplicación práctica de gramáticas formal
 
 
 
-**Resultados**
-
-![Resultados](IMAGENES/RESULTADOS.jpg)
